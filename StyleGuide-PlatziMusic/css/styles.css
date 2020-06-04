@@ -22,3 +22,11 @@ table tr:hover {
 .btn.btn--info {
   background-color: #42b8dd;
 }
+
+section {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #bfbfbf;
+  padding: 24px;
+}
