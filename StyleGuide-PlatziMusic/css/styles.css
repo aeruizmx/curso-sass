@@ -1,7 +1,9 @@
-.div {
-  background-color: blue;
-}
-
+/*******************************\
+  COLORS  
+\*******************************/
+/**
+* Branding Colors
+*/
 table tr:hover {
-  background-color: gray;
+  background-color: #dbd879;
 }
